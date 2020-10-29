@@ -1,0 +1,11 @@
+Resolucion de ejercicio 2
+1. Inicio
+2. Ingrese gasto 1
+3. lea "1"
+4. Ingrese gasto 2
+5. lea "2"
+6. Ingrese gasto 3
+7. lea "3"
+8. Suma 1+2+3 
+9. Presentar gastos
+10. Fin

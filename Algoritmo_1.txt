@@ -1,1 +1,9 @@
 Resolucion de ejercicio 1
+1. Inicio
+2. Escriba la base
+   lea b
+3. Escriba la altura
+   lea a
+4. Desarrollar el ejercicio a*b/2
+5. Presentar
+6. Fin
