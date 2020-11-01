@@ -1,0 +1,9 @@
+Resolucion de ejercicio 7
+1. Inicio
+2. Ingresar el nombre del usuario
+3. Ingresar edad
+4. Se debe descontar 10% si es mayor a 65 años
+5. Ingresar el valor de costo por kilovatio/hora
+6. Ingresar cuantos kilovatios consumio en el mes
+7. Mostrar en pantalla el valor a cancelar y descontar el 10% si es mayor a 65 años
+8. Fin

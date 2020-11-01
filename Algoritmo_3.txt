@@ -1,0 +1,6 @@
+Resolucion de ejercicio 3
+1. Inicio
+2. Ingresar el nombre del usuario
+3. Ingresar el numero que desee multiplicar
+4. Presentar en pantalla si el numero que multiplico esta entre 2 y 6
+5.Fin

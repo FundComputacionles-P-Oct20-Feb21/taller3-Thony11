@@ -1,0 +1,9 @@
+Resolucion de ejercicio 6
+1. Inicio
+2. Ingresar el nombre del cliente
+3. Ingresar el tipo de prestamo
+4. Ingrsar el monto del prestamo
+5. Ingresar el interes mensual que desee cobrar
+6. Ingrsar el tiempo de plazo
+7. Mostrar en pantalla el cobro mensual del prestamo
+8. Fin

@@ -1,0 +1,9 @@
+Resolucion de ejercicio 8
+1. Inicio
+2. Ingresar nombre del usuario
+3. Ingresar edad
+4. Ingresar el tiempo que desee adquirir el paquete
+5. Mostrar los servicios digitales(netflix, youtube premium, dropbox, spotify)
+6. Descontar 20% si es menor a 30años
+7. Montrar en pantalla el valor a pagar mensual 
+8. Fin

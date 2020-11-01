@@ -1,0 +1,8 @@
+Resolucion de ejercicio 4
+1. Inicio
+2. Ingresar el nombre de usuario
+3. Ingresar el numero de telefono
+5. Ingresar el costo por minutos
+6. Ingresar el numero de minutos consumidos en el mes
+7. Mostrar en pantalla el valor a pagar de los minutos consumidos en el mes
+8. Fin 
