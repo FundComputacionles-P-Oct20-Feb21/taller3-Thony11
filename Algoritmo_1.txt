@@ -1,9 +1,7 @@
 Resolucion de ejercicio 1
 1. Inicio
-2. Escriba la base
-   lea b
-3. Escriba la altura
-   lea a
-4. Desarrollar el ejercicio a*b/2
-5. Presentar
+2. Escriba los datos de la base
+3. Escribalos datos de la altura
+4. Desarrollar el ejercicio usando la formula a*b/2
+5. Presentar en pantalla el ejercicio resuelto
 6. Fin
